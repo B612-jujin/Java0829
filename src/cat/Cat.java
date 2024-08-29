@@ -18,11 +18,10 @@ public class Cat {
     }
 
     void CatInfo(){
-        System.out.printf("이름:%s\n품종:%s\n중량:%.2f㎏",getName(),getbreeds(),getWeight());
+        System.out.printf("이름:%s\n품종:%s\n중량:%.2f㎏",getName(),getBreeds(),getWeight());
     }
 
     //반환,값 설정  하는 장소ㅣㅣ
-
     //
 
 
